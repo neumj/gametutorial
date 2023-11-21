@@ -1,0 +1,7 @@
+name: gametutorial
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - pygame
+  - jupyterlab

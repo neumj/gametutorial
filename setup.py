@@ -24,7 +24,7 @@ test_pkgs = []
 
 setup(
     name="gametutorial",
-    python_requires='>3.6',
+    python_requires='==3.6',
     description="game tutorial",
     url="https://github.com/neumj/gametutorial",
     install_requires=reqs,
